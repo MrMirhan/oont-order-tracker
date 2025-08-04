@@ -1,6 +1,6 @@
 # 🛍️ OoNt Order Tracker
 
-A modern order tracking application built with React (TypeScript) frontend and Node.js/Express backend. This project was developed as part of the OoNt take-home assignment.
+A modern order tracking application built with React (TypeScript) frontend and Node.js/Express backend.
 
 ## 📋 Table of Contents
 
@@ -722,7 +722,3 @@ For questions or issues:
 - Verify both backend and frontend are running
 - Clear localStorage if experiencing data issues
 - Review API endpoints in browser Network tab
-
----
-
-**Built with ❤️ for OoNt Take-Home Assignment**
